@@ -8,7 +8,7 @@ I am a Computer & Communications Engineering student at **Alexandria University*
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,bash,nodejs,express,mysql,mongodb,linux,ubuntu,docker,git,github,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,express,py,js,mysql,mongodb,c,cpp,linux,ubuntu,docker,git,github,html,css,arduino,php,notion&perline=10" />
   </a>
 </p>
 ---
