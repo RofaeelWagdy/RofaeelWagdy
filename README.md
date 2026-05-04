@@ -4,7 +4,14 @@
 I am a Computer & Communications Engineering student at **Alexandria University** with a passion for building scalable, high-performance full-stack systems. I specialize in **Java** and **Node.js**, leveraging a deep understanding of **Operating Systems** and **Design Patterns** to write efficient, maintainable code.
 
 ---
+### 🛠️ Languages and Tools
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,bash,nodejs,express,mysql,mongodb,linux,ubuntu,docker,git,github,arduino" />
+  </a>
+</p>
+---
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** Java, C++, C, JavaScript (ES6+), Python, SQL, Bash.
