@@ -11,14 +11,12 @@ I am a Computer & Communications Engineering student at **Alexandria University*
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,bash,nodejs,express,mysql,mongodb,linux,ubuntu,docker,git,github&perline=8" />
   </a>
 </p>
----
-### 🛠️ Tech Stack & Skills
 
 - **Languages:** Java, C++, C, JavaScript, Python, SQL, Bash.
 - **Backend & Databases:** Node.js, Express, MySQL, MongoDB.
 - **Architecture & Design:** OOP, Design Patterns, UML Modeling.
 - **Systems & Infrastructure:** Linux/Unix Internals, POSIX Threads (PThreads), System V IPC, Docker & Docker Compose.
-- **Tools:** Git/GitHub, GNU Make.
+- **Tools:** Git/GitHub, GNU Make, Notion.
 
 ---
 
